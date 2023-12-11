@@ -49,12 +49,6 @@ The `bugrush` class is at the heart of this project, encapsulating the puzzle lo
 - Execute the script with `python bugrush.py filename n m` in the command line.
 - The script will output the number of moves to solve the puzzle or 'unsat' for unsolvable puzzles.
 
-### Puzzle Format Guidelines:
-
-**Bugrush Puzzle Structure:**
-- Puzzles are laid out in a grid format with varying pieces.
-- The puzzle is solved when specific pieces reach their target positions.
-
 ### Example Puzzle Layout:
 
 Design your puzzles adhering to the format below
