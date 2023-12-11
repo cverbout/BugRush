@@ -60,18 +60,17 @@ Design your puzzles adhering to the format below
 5. Pieces can only be moved into a space where there is no existing piece at that moment. (An empty space)
 6. A puzzle is deemed "sat" if the bug can navigate to the far-right boundary of the puzzle.
 
-#### Example 5x7:
+#### Example 3x4:
 
-\-------
+\---
 
-|--|---
+| -|
 
-|----||
+|--
 
-\> |||||
+\>||
 
-||-|-||
 
-&nbsp;|-|||-
+&nbsp;
 
 
